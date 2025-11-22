@@ -1,6 +1,6 @@
 # Offline Multi-User Notes App – React Native Internship Assignment
 
-**Submitted by:** Rahul Shroff  
+**Submitted by:** Rahul Kumar Soni 
 **Email:** rahulshroff55@gmail.com
 
 A fully offline, multi-user notes application built from scratch in **under 3 days** using **Expo + TypeScript + Zustand + AsyncStorage** as per the exact assignment requirements.
