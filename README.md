@@ -35,7 +35,7 @@ No Redux, no Firebase, no external backend – completely offline as required.
 ## Setup & Run Locally
 
 ```bash
-git clone https://github.com/rahulshroff55/react-native-internship-assignment.git
+git clone https://github.com/rahulshah1122/Offline-Notes-App.git
 cd react-native-internship-assignment
 npm install
 npx expo start
