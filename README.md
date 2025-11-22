@@ -3,7 +3,7 @@
 **Submitted by:** Rahul Kumar Soni 
 **Email:** rahulshroff55@gmail.com
 
-A fully offline, multi-user notes application built from scratch in **under 3 days** using **Expo + TypeScript + Zustand + AsyncStorage** as per the exact assignment requirements.
+A fully offline, multi-user notes application built from scratch in  using **Expo + TypeScript + Zustand + AsyncStorage** as per the exact assignment requirements.
 
 ## Features Implemented (100% Complete)
 
